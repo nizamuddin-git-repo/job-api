@@ -74,5 +74,13 @@ https://stackoverflow.com/questions/50752350/page-not-found-when-trying-to-acces
 //--Resize-img--//
 
 https://www.reduceimages.com/
+
+
 https://imgbb.com/
+
+
 https://www.reduceimages.com/
+
+//--img--link--//
+
+https://imagekit.io/dashboard/media-library
